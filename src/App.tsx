@@ -184,7 +184,7 @@ function App() {
           }}
         >
           <video
-            src="media/Get Stick Bugged lol.mp4"
+            src="media\get_trumputinned_lol.mp4"
             autoPlay
             loop
             className="video-message"
